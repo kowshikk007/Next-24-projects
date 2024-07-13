@@ -1,10 +1,3 @@
-<img width=75% src="docs/figs/logo.png">
-
-[![PyPI version](https://badge.fury.io/py/digipathos.svg)](https://pypi.org/project/digipathos)
-[![Build Status](https://travis-ci.org/bresan/digipathos_plant_pathology.svg?branch=master)](https://travis-ci.org/bresan/digipathos_plant_pathology)
-[![codecov](https://codecov.io/gh/bresan/digipathos_plant_pathology/branch/master/graph/badge.svg)](https://codecov.io/gh/bresan/digipathos_plant_pathology)
-[![GitHub](https://img.shields.io/github/license/bresan/digipathos_plant_pathology.svg)](https://github.com/bresan/digipathos_plant_pathology/blob/master/LICENSE.md)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e02bc243822c4ce884c4adf87ff6e9f7)](https://www.codacy.com/app/bresan/digipathos_plant_pathology?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bresan/digipathos_plant_pathology&amp;utm_campaign=Badge_Grade)
 
 # Overview
 
@@ -25,13 +18,10 @@ The installation is pretty simple if you have a virtualenv already installed on 
 pip install digipathos
 ```
 
-# Documentation
-
-Besides the docstrings, major details about the documentation can be found [here](https://digipathos.readthedocs.io/en/latest/).
 
 # Testing
 
-This project is inteded to suit most of the existent needs, so for this reason, testability is a major concern. Most of the code is heavily tested, along with [Travis](https://travis-ci.org/bresan/digipathos_plant_pathology) as Continuous Integration tool to run all the unit tests once there is a new commit.
+This project is inteded to suit most of the existent needs, so for this reason, testability is a major concern. Most of the code is heavily tested Continuous Integration tool to run all the unit tests once there is a new commit.
 
 # Usage
 
@@ -81,9 +71,6 @@ data_loader.download_datasets_from_crop('Pineapple')
 data_loader.download_all_datasets()
 ```
 
-Pretty simple, huh?
-
-A working example can be found [here as a Python script](https://github.com/bresan/digipathos_plant_pathology/blob/master/example/example.py).
 
 
 # Troubleshooting
