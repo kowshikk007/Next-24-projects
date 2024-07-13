@@ -8,7 +8,7 @@
 
 # Overview
 
-This project is aimed to serve as a wrapper for the Digipathos dataset, in order to list and download public data from plant pathologies provided by Embrapa (Brazilian Agricultural Research Corporation).
+This project is aimed to serve as a wrapper for the Digipathos dataset, in order to list and download public data from plant pathologies.
 
 Example of pictures:
 
